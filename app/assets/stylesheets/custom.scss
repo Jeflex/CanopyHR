@@ -1,0 +1,25 @@
+@import "colors";
+
+.home-image {
+  display: block;
+  margin: auto;
+  padding: 5px;
+  padding-right: 10px;
+}
+
+.thread-main {
+  background-color: $canopy_green !important;
+}
+
+.th-main{
+  color: #ffffff !important;
+}
+
+.td-main{
+  color: $canopy_black;
+}
+
+.with-border{
+  border-width: 1px;
+  border: $canopy_black;
+}

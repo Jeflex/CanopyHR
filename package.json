@@ -1,5 +1,26 @@
 {
-  "name": "CanopyHR",
+  "name": "canopyhr",
   "private": true,
-  "dependencies": {}
+  "dependencies": {},
+  "description": "",
+  "version": "1.0.0",
+  "main": "/app/assets/javascripts/components/_main.js.jsx",
+  "directories": {
+    "doc": "docs",
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jeflex/CanopyHR.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jeflex/CanopyHR/issues"
+  },
+  "homepage": "https://github.com/Jeflex/CanopyHR#readme"
 }
