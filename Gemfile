@@ -33,7 +33,7 @@ gem 'jquery-rails'
 gem 'react-rails'
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
-gem 'wdm', '>=0.1.0'
+# gem 'wdm', '>=0.1.0'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
